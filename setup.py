@@ -54,7 +54,7 @@ try:
         long_description=long_description,
         long_description_content_type=r"text/markdown",
         # The project's main homepage.
-        url="https://github.com/danielhrisca/asammdf",
+        url="https://github.com/vaasu070/asammdf-5.20.6",
         # Author details
         author="Daniel Hrisca",
         author_email="daniel.hrisca@gmail.com",
